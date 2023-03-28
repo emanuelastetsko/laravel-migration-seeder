@@ -2,16 +2,16 @@
 ## MILESTONE 1
 Creiamo una tabella trains e relativa Migration
 
-Ogni treno dovrà avere:
-Azienda
-Stazione di partenza
-Stazione di arrivo
-Orario di partenza
-Orario di arrivo
-Codice Treno
-Numero Carrozze
-In orario
-Cancellato
+Ogni treno dovrà avere: \n
+Azienda \n
+Stazione di partenza \n
+Stazione di arrivo \n
+Orario di partenza \n
+Orario di arrivo \n
+Codice Treno \n
+Numero Carrozze \n
+In orario \n
+Cancellato \n
 
 Inserite inizialmente i dati tramite PhpMyAdmin.
 ## MILESTONE 2
