@@ -14,9 +14,15 @@
         <main>
             <div class="container">
                 <div class="row">
-                    <div class="col">
-
-                    </div>
+                    @foreach ($trains as $train)
+                        <div class="col-4">
+                            <div class="card">
+                                <div class="card-body">
+                                    <h2>{{ $train->departure_station }} - {{ $train->arrival_station }}</h2>
+                                </div>
+                            </div>
+                        </div>
+                    @endforeach
                 </div>
             </div>
         </main>
